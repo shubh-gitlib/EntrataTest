@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-07T12:16:10 IST" name="Entrata Suite" finished-at="2024-10-07T12:17:19 IST" duration-ms="69217">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T12:16:10 IST" name="Register as Super early bird for Base Camp" finished-at="2024-10-07T12:17:19 IST" duration-ms="69217">
+      <class name="entrata.functionality.tests.TC03">
+        <test-method is-config="true" signature="setup()[pri:0, instance:entrata.functionality.tests.TC03@27f981c6]" started-at="2024-10-07T12:16:10 IST" name="setup" finished-at="2024-10-07T12:16:13 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:entrata.functionality.tests.TC03@27f981c6]" started-at="2024-10-07T12:16:13 IST" name="deleteAllCookies" finished-at="2024-10-07T12:16:13 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method signature="superEarlyBirdBaseCampRegistrationTest()[pri:1, instance:entrata.functionality.tests.TC03@27f981c6]" started-at="2024-10-07T12:16:13 IST" name="superEarlyBirdBaseCampRegistrationTest" description="Register as Super early bird for Base Camp" finished-at="2024-10-07T12:17:19 IST" duration-ms="65946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- superEarlyBirdBaseCampRegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:entrata.functionality.tests.TC03@27f981c6]" started-at="2024-10-07T12:17:19 IST" name="teardown" finished-at="2024-10-07T12:17:19 IST" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- entrata.functionality.tests.TC03 -->
+    </test> <!-- Register as Super early bird for Base Camp -->
+  </suite> <!-- Entrata Suite -->
+</testng-results>
